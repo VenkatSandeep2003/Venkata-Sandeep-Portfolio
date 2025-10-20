@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S R VENKATA SANDEEP - Finance Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header id="main-header">
+        <div class="container header-content">
+            <h1 class="logo">S R V S</h1>
+            <nav id="navbar">
+                <a href="#about" class="active">Summary</a>
+                <a href="#skills">Skills</a>
+                <a href="#experience">Experience</a>
+                <a href="#education">Education</a>
+                <a href="#projects">Projects</a>
+                <a href="#certifications">Certifications</a>
+            </nav>
+        </div>
+    </header>
+
+    <main id="main-content">
+        <section id="hero" class="section-padded">
+            <div class="container">
+                <h2 class="name">S R VENKATA SANDEEP</h2>
+                <h3 class="tagline">Finance Professional | Financial Modeling & Investment Analysis</h3>
+                <div class="contact-links">
+                    <a href="mailto:venkatsandeepsr@gmail.com"><i class="fas fa-envelope"></i> venkatsandeepsr@gmail.com</a>
+                    <span class="separator">|</span>
+                    <a href="tel:+919110851043"><i class="fas fa-phone"></i> 9110851043</a>
+                    <span class="separator">|</span>
+                    <a href="https://linkedin.com/in/srvenkatasandeep" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                    <span class="separator">|</span>
+                    <span class="location"><i class="fas fa-map-marker-alt"></i> Bellary, Karnataka</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="section-content">
+            <div class="container">
+                <h2 class="section-heading"><i class="fas fa-user-tie icon-color"></i> EXECUTIVE SUMMARY</h2>
+                <p>Finance professional with 5+ months of experience in investment analysis and auditing through internships and trainee roles. Skilled in financial modeling, forecasting, variance analysis, portfolio evaluation, valuation, and cost reconciliation. Proficient in Excel, Power BI, and financial statement analysis, with practical experience supporting financial planning and analysis functions.</p>
+            </div>
+        </section>
+
+        <section id="skills" class="section-content bg-light-gray">
+            <div class="container">
+                <h2 class="section-heading"><i class="fas fa-tools icon-color"></i> SKILLS</h2>
+                <div class="skills-list">
+                    <span class="skill-tag">Financial Modeling</span>
+                    <span class="skill-tag">Budgeting & Forecasting</span>
+                    <span class="skill-tag">Variance Analysis</span>
+                    <span class="skill-tag">Financial Statement Analysis</span>
+                    <span class="skill-tag">Investment Analysis</span>
+                    <span class="skill-tag">Corporate Finance</span>
+                    <span class="skill-tag">Sensitivity & Scenario Analysis</span>
+                    <span class="skill-tag">Power BI Desktop</span>
+                    <span class="skill-tag">Microsoft Office</span>
+                    <span class="skill-tag">Tally ERP 9</span>
+                    <span class="skill-tag">Tally Prime</span>
+                    <span class="skill-tag">Balance Sheet Reconciliation</span>
+                    <span class="skill-tag">Inventory Audit</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="experience" class="section-content">
+            <div class="container">
+                <h2 class="section-heading"><i class="fas fa-briefcase icon-color"></i> PROFESSIONAL EXPERIENCE</h2>
+                
+                <div class="timeline-item">
+                    <div class="timeline-header">
+                        <div class="job-title-company">
+                            <h3 class="job-title">Financial Analyst Intern</h3>
+                            <span class="company">Citigroup Inc.</span>
+                        </div>
+                        <div class="dates-location">
+                            <span class="date">April 2025 – May 2025</span>
+                            <span class="location">Remote, India</span>
+                        </div>
+                    </div>
+                    <ul class="job-description">
+                        <li>Monitored monthly KPI variances for 5 business units, identified deviations above 8%, investigated root causes, and updated Excel-based reports, reducing errors and accelerating report delivery by 20%.</li>
+                        <li>Assessed capital adequacy and RWA, maintained 12.3% capital ratio, ensuring Federal Reserve Board compliance through risk analysis.</li>
+                        <li>Modeled a 7% credit card revenue decline using regression, updated forecasts, and supported planning during Omicron disruptions.</li>
+                        <li>Created and presented a 10-slide capital risk report covering three risks and two mitigation strategies to CFO and Treasurer.</li>
+                        <li>Coordinated teams across three time zones, standardized Excel templates, improving report accuracy and reducing turnaround by 15%.</li>
+                    </ul>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-header">
+                        <div class="job-title-company">
+                            <h3 class="job-title">Inventory Audit Associate</h3>
+                            <span class="company">Auditics Private Limited</span>
+                        </div>
+                        <div class="dates-location">
+                            <span class="date">November 2024 – March 2025</span>
+                            <span class="location">Bellary, Karnataka</span>
+                        </div>
+                    </div>
+                    <ul class="job-description">
+                        <li>Performed detailed inventory audits of over 1,600 unique SKUs across 10+ industrial units, achieving 96% reconciliation accuracy between physical and recorded stock levels.</li>
+                        <li>Executed FIFO & Weighted Average methods to precisely standardize inventory valuation processes, improving cost accuracy by 8%.</li>
+                        <li>Reconciled physical inventory with ledger, identified ₹1.2 lakhs stock variances, corrected COGS deviations by 4%.</li>
+                        <li>Prepared detailed monthly valuation reports for ₹8.7 lakhs in company assets, supporting cost forecasting, budgeting, and financial reporting.</li>
+                        <li>Audited pricing consistency of high-value assets above ₹10,000 per item, uncovering anomalies that improved gross margin analysis by 3%.</li>
+                    </ul>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-header">
+                        <div class="job-title-company">
+                            <h3 class="job-title">Investment Management Intern</h3>
+                            <span class="company">Fidelity International</span>
+                        </div>
+                        <div class="dates-location">
+                            <span class="date">June 2024 – July 2024</span>
+                            <span class="location">Remote, India</span>
+                        </div>
+                    </div>
+                    <ul class="job-description">
+                        <li>Initiated a simulated financial modeling project and analyzed 7 equity and debt instruments. Enhanced projected returns by 6% through precise portfolio rebalancing and risk-return evaluation.</li>
+                        <li>Refined a ₹2.5 lakh mock portfolio via financial analysis, increasing overall return efficiency by 6% through targeted reallocation strategies.</li>
+                        <li>Analyzed 5 equities and 2 bonds using SWOT and relative valuation multiples, enhancing 3 allocation proposals and boosting clarity by 10%.</li>
+                        <li>Utilized Sharpe Ratio and Excel Solver across 3 mock portfolios to strategically optimize asset mix, reducing simulated risk exposure by 4%.</li>
+                        <li>Conducted sector research on FMCG and Tech, developing 4 investment theses that supported a mock rebalancing strategy.</li>
+                    </ul>
+                </div>
+
+            </div>
+        </section>
+
+        <section id="education" class="section-content bg-light-gray">
+            <div class="container">
+                <h2 class="section-heading"><i class="fas fa-graduation-cap icon-color"></i> EDUCATION</h2>
+                
+                <div class="timeline-item">
+                    <div class="timeline-header">
+                        <div class="job-title-company">
+                            <h3 class="job-title">Bachelor of Commerce – Accounting and Finance</h3>
+                            <span class="company">Vijayanagara Sri Krishnadevaraya University</span>
+                        </div>
+                        <div class="dates-location">
+                            <span class="date">September 2021 – October 2024</span>
+                            <span class="location">Bellary, Karnataka</span>
+                        </div>
+                    </div>
+                    <ul class="job-description">
+                        <li>**CGPA: 8.95/10** – Ranked in top 5% of class.</li>
+                        <li>Explored hands-on projects in GST impact and Adani Enterprises Ltd Financial Modeling and Valuation-based academic projects, sharpening proficiency in financial modeling, accounting principles, analytical tools and data visualization tools.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="section-content">
+            <div class="container">
+                <h2 class="section-heading"><i class="fas fa-folder-open icon-color"></i> KEY PROJECTS</h2>
+                
+                <div class="project-grid">
+                    <div class="project-card">
+                        <h4>Global Sales Insights & Performance Analysis Dashboard</h4>
+                        <ul>
+                            <li>Developed an interactive Power BI dashboard to analyze global sales across regions, stores, and product categories.</li>
+                            <li>Identified that the top 3 regions contributed **42%** of total sales and reduced performance review time by **25%**.</li>
+                        </ul>
+                    </div>
+                    <div class="project-card">
+                        <h4>Financial Analysis and Valuation of Adani Enterprises Ltd.</h4>
+                        <ul>
+                            <li>Conducted detailed **DCF & Comparable Company Analysis** to estimate equity value at **₹344.93 per share**.</li>
+                            <li>Evaluated financial health using **Altman Z-Score**, **DuPont analysis**, and **Monte Carlo Value at Risk** simulations.</li>
+                        </ul>
+                    </div>
+                    <div class="project-card">
+                        <h4>A Study on Impact of Goods and Services Tax on Retail Shops</h4>
+                        <ul>
+                            <li>Evaluated pricing models and revenue trends from 50+ retail outlets post-GST rollout.</li>
+                            <li>Identified 10+ critical tax and pricing gaps, raising compliance readiness by **9%**.</li>
+                        </ul>
+                    </div>
+                    <div class="project-card">
+                        <h4>Finance KPI Dashboard</h4>
+                        <ul>
+                            <li>Built an interactive Power BI dashboard to compare Actual vs Budget performance using advanced **DAX formulas**.</li>
+                            <li>Reduced monthly reporting time by **30%** through automated data refresh and consolidated reporting.</li>
+                        </ul>
+                    </div>
+                    <div class="project-card">
+                        <h4>Blinkit Sales Performance Dashboard</h4>
+                        <ul>
+                            <li>Designed a Power BI dashboard analyzing Blinkit’s regional sales, delivery time, and customer satisfaction.</li>
+                            <li>Identified top 3 metro cities contributed **58%** of total orders, optimizing route efficiency.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="certifications" class="section-content bg-light-gray">
+            <div class="container">
+                <h2 class="section-heading"><i class="fas fa-certificate icon-color"></i> CERTIFICATIONS</h2>
+                <ul class="cert-list">
+                    <li>**Financial Modeling and Valuation**, Udemy – 2025</li>
+                    <li>**Tally ERP 9**, ALMA Institute – 2024</li>
+                    <li>**Accounting Fundamentals**, Corporate Finance Institute – 2023</li>
+                    <li>**Advance Excel**, Alison - 2023</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 S R Venkata Sandeep. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
